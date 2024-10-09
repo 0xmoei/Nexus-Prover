@@ -17,6 +17,8 @@ sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano aut
 
 # Install Rust
 curl https://sh.rustup.rs -sSf | sh
+
+# Add Rust to source
 source $HOME/.cargo/env
 export PATH="$HOME/.cargo/bin:$PATH"
 
