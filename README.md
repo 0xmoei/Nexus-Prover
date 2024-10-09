@@ -47,9 +47,8 @@ To retun screen: `screen -r nexus`
 
 ![image](https://github.com/user-attachments/assets/9f8f86bd-a250-4b9e-834c-170a3f66f371)
 
-![image](https://github.com/user-attachments/assets/ad0ed68a-d777-408f-94c2-9e294c8163d9)
+![image](https://github.com/user-attachments/assets/6bf910e5-a9e0-443e-951a-bf828818fbfc)
 
-![image](https://github.com/user-attachments/assets/9f539bb8-083f-4723-8c1a-24e09189ebc9)
 
 
 
