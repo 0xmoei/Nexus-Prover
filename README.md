@@ -42,4 +42,8 @@ To minimize screen: `CTRL+A+D`
 To retun screen: `screen -r nexus`
 
 
+## Track your Contribution
 ***There is no wallet or social connection yet but team will add a way to Track your Contributions later***
+
+![image](https://github.com/user-attachments/assets/9f8f86bd-a250-4b9e-834c-170a3f66f371)
+
