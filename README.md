@@ -7,7 +7,7 @@ Contribute to Nexus zkVM Prover by click Connect button: https://beta.nexus.xyz/
 
 
 ## Method 2. Linux Server
-1. Install Dependecies
+**1. Install Dependecies**
 ```console
 sudo apt update && sudo apt upgrade -y
 ```
@@ -30,7 +30,7 @@ rustup update
 rustc --version
 ```
 
-2. Run Prover
+**2. Run Prover**
 
 *Open screen*
 ```console
