@@ -43,7 +43,7 @@ To retun screen: `screen -r nexus`
 
 
 ## Track your Contribution
-***There is no wallet or social connection yet but team is tracking your Contributions and will add a leaderboard later***
+***There is no wallet or social connection yet but team is tracking your computer Contributions and will add a leaderboard later***
 
 ![image](https://github.com/user-attachments/assets/9f8f86bd-a250-4b9e-834c-170a3f66f371)
 
