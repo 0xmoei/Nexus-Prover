@@ -17,7 +17,7 @@ sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano aut
 ```
 ```console
 # Install Rust
-curl https://sh.rustup.rs -sSf | sh
+sudo curl https://sh.rustup.rs -sSf | sh
 ```
 ```console
 # Add Rust to path
@@ -38,7 +38,7 @@ screen -S nexus
 ```
 *Run:*
 ```console
-curl https://cli.nexus.xyz/install.sh | sh
+sudo curl https://cli.nexus.xyz/install.sh | sh
 ```
 ![image](https://github.com/user-attachments/assets/6d79fad5-4153-4927-b3e2-559fe70fe5b5)
 
