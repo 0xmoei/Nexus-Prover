@@ -14,14 +14,17 @@ sudo apt update && sudo apt upgrade -y
 ```console
 # Install packages
 sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev  -y
-
+```
+```console
 # Install Rust
 curl https://sh.rustup.rs -sSf | sh
-
+```
+```console
 # Add Rust to path
 source $HOME/.cargo/env
 export PATH="$HOME/.cargo/bin:$PATH"
-
+```
+```console
 rustup update
 
 rustc --version
