@@ -46,6 +46,12 @@ To minimize screen: `CTRL+A+D`
 
 To retun screen: `screen -r nexus`
 
+**3. Save Prover ID file**
+
+You'll get a `prover-id` file in `/root/.nexus/` representing your unique contribution ID to Prover Node
+
+![Screenshot_3](https://github.com/user-attachments/assets/5362c2b7-f116-4086-aeec-44fc7b425d05)
+
 
 ## Track your Contribution
 ***There is no wallet or social connection yet but team is tracking your computer Contributions and will add a leaderboard later***
