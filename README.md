@@ -3,7 +3,8 @@
 ## Method 1. Web Browser
 Contribute to Nexus zkVM Prover by click Connect button: https://beta.nexus.xyz/
 
-![image](https://github.com/user-attachments/assets/ec13a340-9c54-4419-a1fe-e3ad0855b9dd)
+![image](https://github.com/user-attachments/assets/6cdd207b-c623-4621-a052-56f35ee13e09)
+
 
 
 ## Method 2. Linux Server
